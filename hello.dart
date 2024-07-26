@@ -1,3 +1,3 @@
-main(){
-print('Hello');
+main() {
+  print('Hello my dear friends');
 }
